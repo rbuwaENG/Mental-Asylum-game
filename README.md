@@ -11,5 +11,8 @@
 
 ```
 "Mental Asylum" is a first-person horror game developed using the Godot game engine. The game takes place in an abandoned mental asylum and follows the player as they search for a way to escape while being pursued by an unknown sinister entity. The game features immersive graphics and intense gameplay, showcasing the potential of indie game development. With the use of the Godot game engine, this project also highlights the capabilities of open-source game development tools.</br>
+Loading screen</br>
 ![](https://github.com/rbuwaENG/Mental-Asylum-game/blob/main/LOADING.JPG?raw=true)</br>
+
+Game play of mental asylum</br>
 ![](https://github.com/rbuwaENG/Mental-Asylum-game/blob/main/asylum.gif?raw=true)
